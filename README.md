@@ -14,9 +14,8 @@ Summary: Estimation of time-dependent ROC curve and area under time dependent RO
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-timeroc-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-timeroc-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-timeroc-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-timeroc-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-timeroc-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-timeroc-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-timeroc-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-timeroc-feedstock)
 
 Current release info
 ====================
