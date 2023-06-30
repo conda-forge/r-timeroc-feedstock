@@ -1,11 +1,11 @@
-About r-timeroc
-===============
+About r-timeroc-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-timeroc-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=timeROC
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-timeroc-feedstock/blob/main/LICENSE.txt)
 
 Summary: Estimation of time-dependent ROC curve and area under time dependent ROC curve (AUC) in the presence of censored data, with or without competing risks. Confidence intervals of AUCs and tests for comparing AUCs of two rival markers measured on the same subjects can be computed, using the iid-representation of the AUC estimator. Plot functions for time-dependent ROC curves and AUC curves are provided. Time-dependent Positive Predictive Values (PPV) and Negative Predictive Values (NPV) can also be computed.
 
